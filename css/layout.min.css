@@ -341,7 +341,7 @@ fieldset[disabled] .btn-theme {
     width: 40px;
     height: 40px;
     font-size: 16px;
-    color: #fff;
+    color: #000;
     border-radius: 50%;
     padding: 11px;
     transition-duration: .3s;
@@ -386,7 +386,7 @@ fieldset[disabled] .btn-theme {
 
 .promo-block .promo-block-text {
     font-size: 25px;
-    color: #fff
+    color: currentcolor;
 }
 
 .promo-block .promo-block-divider {
